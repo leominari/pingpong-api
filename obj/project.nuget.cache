@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eeqiBE3Dmfb4issqrGDbLVaraYWtoKIMYDr4r66siRNdMo/lLWgt00QbjagqCXrpQ2cel8f53x7tS+mQpZT4zw==",
+  "dgSpecHash": "IGxwO0WDTMGi3ua+vzc73ERxowk8G2Ux7Hr72s5KrJSz/79OjBViqGMWkL/Q6qc5DOWQFQYAf66zoxYgpBHXUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Minari\\Desktop\\campeonato\\campeonato.csproj",
+  "projectFilePath": "C:\\Users\\Minari\\Desktop\\pingpong-api\\campeonato.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Minari\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Minari\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

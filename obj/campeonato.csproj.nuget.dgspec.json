@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Minari\\Desktop\\campeonato\\campeonato.csproj": {}
+    "C:\\Users\\Minari\\Desktop\\pingpong-api\\campeonato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Minari\\Desktop\\campeonato\\campeonato.csproj": {
+    "C:\\Users\\Minari\\Desktop\\pingpong-api\\campeonato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Minari\\Desktop\\campeonato\\campeonato.csproj",
+        "projectUniqueName": "C:\\Users\\Minari\\Desktop\\pingpong-api\\campeonato.csproj",
         "projectName": "campeonato",
-        "projectPath": "C:\\Users\\Minari\\Desktop\\campeonato\\campeonato.csproj",
+        "projectPath": "C:\\Users\\Minari\\Desktop\\pingpong-api\\campeonato.csproj",
         "packagesPath": "C:\\Users\\Minari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Minari\\Desktop\\campeonato\\obj\\",
+        "outputPath": "C:\\Users\\Minari\\Desktop\\pingpong-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Minari\\AppData\\Roaming\\NuGet\\NuGet.Config"
