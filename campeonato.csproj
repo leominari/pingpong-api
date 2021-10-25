@@ -5,17 +5,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.11">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqLite" Version="5.0.11" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
     <Compile Remove="Migrations\AppDbContextModelSnapshot.cs" />
     <Compile Remove="Migrations\20211020201043_NameTournamentAdded.cs" />
     <Compile Remove="Migrations\20211020201043_NameTournamentAdded.Designer.cs" />
+    <Compile Remove="Models\PlayerTournament.cs" />
   </ItemGroup>
 
   <ItemGroup>
