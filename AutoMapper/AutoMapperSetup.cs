@@ -36,8 +36,7 @@ namespace campeonato.AutoMapper
             //     );
 
             #endregion
-
-
+            
             #region TournamentPlayer
 
             CreateMap<CreateTournamentPlayerViewModel, TournamentPlayer>()

@@ -1,4 +1,6 @@
-﻿namespace campeonato.Models
+﻿using System;
+
+namespace campeonato.Models
 {
     public class TournamentPlayer
     {
@@ -6,5 +8,6 @@
         public Player Player { get; set; }
         public int TournamentId { get; set; }
         public Tournament Tournament { get; set; }
+        public int Status { get; set; }
     }
 }
